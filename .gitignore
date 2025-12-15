@@ -1,4 +1,7 @@
 node_modules/
+.wwebjs_auth/
 .wwebjs_cache/
+
 *.pdf
-.env
+*.exe
+*.dll
